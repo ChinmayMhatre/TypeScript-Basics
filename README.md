@@ -1,0 +1,1 @@
+A repository I am using to learn about and implement Typescript.
