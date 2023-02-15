@@ -8,7 +8,7 @@ const printQuote = (quote:string) =>{
 printQuote("I have no wisdom");
 
 //this will make TS complain 
-printQuote(23)
+// printQuote(23)
 
 // default parameters
 const square =  (num:number = 2)=>{
